@@ -1,3 +1,14 @@
+## Customized Vapor
+Show contents more widely.
+
+#### Before
+![](https://content-jp.drive.amazonaws.com/cdproxy/templink/zl0sNbKLSBECLy9Sfz59YI94CGCuQR-YJ61iDdmMMpELAYspN/alt/thumb?viewBox=1177)
+
+#### After
+![](https://content-jp.drive.amazonaws.com/cdproxy/templink/UfnUSrFP3ruSeOFTm2u2VVYaDs1nNt_xCubi4A_lL9YLAYspN/alt/thumb?viewBox=1177)
+
+-----
+
 # Vapor
 
 Minimal and responsive with a focus on typography, *Vapor* is a theme that embodies the core concept of [Ghost](http://ghost.org/)&mdash;it fades into the background, bringing the focus to your content.
