@@ -1,0 +1,3 @@
+User-agent: *
+Sitemap: https://tech.trileg.net/sitemap.xml
+Disallow: /ghost/
